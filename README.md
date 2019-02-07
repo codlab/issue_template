@@ -1,18 +1,17 @@
-**Issue Template**
+**Bug report**
 
-When opening issues in involved projects. Please copy and follow those guidelines :
-
-**Expected Behavior**
+A clear and concise description of what the bug is.
 
 
-**Actual Behavior**
+**Expected Behaviour**
 
+Describe the expected behaviour of the feature
 
 **Steps to Reproduce the Problem**
 
-  1.
-  2.
-  3.
+  1. Go to ...
+  2. Click ...
+  3. See the ...
 
 **Minimalistic code**
 
@@ -22,7 +21,7 @@ _Please provide a link to a repository showing specifically the issue. It should
 
   - Version:
     - _for each libraries : name -> version`
-  - Platform: _name and version of the platform where the issue appears_
-  - Subsystem: _in case of specific modified environment, please provide any relevant information_
+  - Platform: [e.g. iOS]
+  - Subsystem: [e.g. Vanilla]
   - Hardware:
     - _for each specific hardware element on the system, a list of their name->(driver->version)_
