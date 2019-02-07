@@ -30,8 +30,8 @@ assignees: codlab
 
   - Device: [e.g. iPhone6]
   - OS: [e.g. iOS8.1]
-  - Platform: [e.g. Android, iOS, ...]
-  - Subsystem: [e.g. Vanilla, CyanogenMod, ...]
+  - Platform: [e.g. Android, iOS, Chrome, ...]
+  - Subsystem: [e.g. n.a., CyanogenMod, ...]
   - Version:
     - _for each libraries : name -> version_
     - [e.g. Android Sdk public-sdk 1.4.6]
