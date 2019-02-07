@@ -1,34 +1,14 @@
-**Describe the bug**
+# Install this template into your project
 
-[A clear and concise description of what the bug is.]
+- create the following path `.github/ISSUE_TEMPLATE`
+- copy the [`report-an-issue.md`](./report-an-issue.md)
 
+# Edit the header
 
-**Expected Behaviour**
+- set the `assignees` usernames
+- edit thea other fields accordingly, you can use the ones by default
 
-[Describe the expected behaviour of the feature.]
+# Configuration
 
-**Steps to Reproduce the Problem**
-
-  1. Go to...
-  2. Click...
-  3. See the...
-
-**Minimalistic code (recommended)**
-
-[Please provide a link to a repository showing specifically the issue. It should only have the minimal footprint of your own implementation - something which does not requires any NDA]
-
-**Specifications**
-
-  - Version:
-    - _for each libraries : name -> version_
-    - [e.g. Android Sdk public-sdk 1.4.6]
-    - [e.g. Android Sdk toolkit 1.4.6]
-    - [e.g. Butterknife 7.0.1]
-    - [...]
-  - Platform: [e.g. Android, iOS, ...]
-  - Subsystem: [e.g. Vanilla, CyanogenMod, ...]
-  - Hardware:
-    - _for each specific hardware element on the system, a list of their name, driver, version_
-    - [e.g. bluetooth headset]
-    - [e.g. bluetooth speaker]
-    - [...]
+- commit and push the modification onto your project
+- enable the template in the project settings to check the availability
