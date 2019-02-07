@@ -1,30 +1,34 @@
-**Bug report**
+**{Bug report title}**
 
-A clear and concise description of what the bug is.
+[A clear and concise description of what the bug is.]
 
 
 **Expected Behaviour**
 
-Describe the expected behaviour of the feature
+[Describe the expected behaviour of the feature.]
 
 **Steps to Reproduce the Problem**
 
-  1. Go to ...
-  2. Click ...
-  3. See the ...
+  1. Go to...
+  2. Click...
+  3. See the...
 
-**Minimalistic code**
+**Minimalistic code (recommended)**
 
-_Please provide a link to a repository showing specifically the issue. It should only have the minimal footprint of your own implementation - something which does not requires any NDA_
+[Please provide a link to a repository showing specifically the issue. It should only have the minimal footprint of your own implementation - something which does not requires any NDA]
 
 **Specifications**
 
   - Version:
-    - _for each libraries : name -> version`
+    - _for each libraries : name -> version`_
     - [e.g. Android Sdk public-sdk 1.4.6]
-    - [e.g. Android Sdk 1.4.6]
+    - [e.g. Android Sdk toolkit 1.4.6]
     - [e.g. Butterknife 7.0.1]
-  - Platform: [e.g. iOS]
-  - Subsystem: [e.g. Vanilla]
+    - [...]
+  - Platform: [e.g. Android, iOS, ...]
+  - Subsystem: [e.g. Vanilla, CyanogenMod, ...]
   - Hardware:
     - _for each specific hardware element on the system, a list of their name->(driver->version)_
+    - [e.g. bluetooth headset]
+    - [e.g. bluetooth speaker]
+    - [...]
