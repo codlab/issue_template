@@ -1,26 +1,24 @@
-# Issue Template
+**Issue Template**
 
 When opening issues in involved projects. Please copy and follow those guidelines :
 
-## Expected Behavior
+**Expected Behavior**
 
 
-## Actual Behavior
+**Actual Behavior**
 
 
-## Steps to Reproduce the Problem
-
-### Workflow
+**Steps to Reproduce the Problem**
 
   1.
   2.
   3.
 
-### Minimalistic code
+**Minimalistic code**
 
 _Please provide a link to a repository showing specifically the issue. It should only have the minimal footprint of your own implementation - something which does not requires any NDA_
 
-## Specifications
+**Specifications**
 
   - Version:
     - _for each libraries : name -> version`
