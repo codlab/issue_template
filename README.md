@@ -21,6 +21,9 @@ _Please provide a link to a repository showing specifically the issue. It should
 
   - Version:
     - _for each libraries : name -> version`
+    - [e.g. Android Sdk public-sdk 1.4.6]
+    - [e.g. Android Sdk 1.4.6]
+    - [e.g. Butterknife 7.0.1]
   - Platform: [e.g. iOS]
   - Subsystem: [e.g. Vanilla]
   - Hardware:
