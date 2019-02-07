@@ -20,7 +20,7 @@
 **Specifications**
 
   - Version:
-    - _for each libraries : name -> version`_
+    - _for each libraries : name -> version_
     - [e.g. Android Sdk public-sdk 1.4.6]
     - [e.g. Android Sdk toolkit 1.4.6]
     - [e.g. Butterknife 7.0.1]
@@ -28,7 +28,7 @@
   - Platform: [e.g. Android, iOS, ...]
   - Subsystem: [e.g. Vanilla, CyanogenMod, ...]
   - Hardware:
-    - _for each specific hardware element on the system, a list of their name->(driver->version)_
+    - _for each specific hardware element on the system, a list of their name, driver, version_
     - [e.g. bluetooth headset]
     - [e.g. bluetooth speaker]
     - [...]
